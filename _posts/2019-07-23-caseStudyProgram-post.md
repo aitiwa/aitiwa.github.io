@@ -12,9 +12,11 @@ caseStudyProgram: 학점 계산 - 중첩 조건문 2단계 - 학점 입니다 �
 m3_1_ifelifelsemultiTest_001_02.py
 
 1. score 변수 선언과 초기화:
+
    score = 95   
 
 2. 여러 조건에 따라 실행하는 조건문:
+
    if  score == 100 :               
        print("   A", end="")    
    elif score >=  90:               
@@ -29,11 +31,13 @@ m3_1_ifelifelsemultiTest_001_02.py
        print("   F", end="" )   
 
 3. 결과값->
+
    A학점 입니다.
 
 4. 프로그램 종료
 
    print("Program End")
+
    Program End
 
 #Program Source
