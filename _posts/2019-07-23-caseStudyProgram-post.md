@@ -1,6 +1,6 @@
 ---
 layout: post
-title: caseStudyProgram: 학점 계산 - 중첩 조건문 1단계 by python
+title: caseStudyProgram - 학점 계산 - 중첩 조건문 2단계 - 학점 입니다 중복 제거 by python
 subtitle: ifElifElseMultiTest_001_01.py
 image: /img/hello_world.jpeg
 tags: [python, program]
@@ -8,7 +8,7 @@ tags: [python, program]
 
 #실행결과
 
-caseStudyProgram: 학점 계산 - 중첩 조건문 2단계 - 학점 입니다 중복 제거
+caseStudyProgram - 학점 계산 - 중첩 조건문 2단계 - 학점 입니다 중복 제거 by python
 m3_1_ifelifelsemultiTest_001_02.py
 
 1. score 변수 선언과 초기화:
