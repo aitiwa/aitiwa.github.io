@@ -1,6 +1,6 @@
 ---
 layout: post
-title: caseStudyProgram - 학점 계산 - 중첩 조건문 2단계 - 학점 입니다 중복 제거 by python
+title: caseStudyProgram - 학점 계산 - 중첩 조건문 2단계 - 학점 입니다 중복 제거
 subtitle: ifElifElseMultiTest_001_01.py
 image: /img/hello_world.jpeg
 tags: [python, program]
