@@ -1,14 +1,14 @@
 ---
 layout: post
-title: caseStudyProgram - BFS-너비우선탐색
-subtitle: m3_2_whileIfTest_BFS
+title: caseStudy - BFS-너비우선탐색
+subtitle: m3_2_whileIfTest_BFS.py
 image: /img/hello_world.jpeg
 tags: [python, program,caseStudyProgram]
 ---
 
 #실행결과
 
-caseStudyProgram - BFS-너비우선탐색 by python
+caseStudy - BFS-너비우선탐색 by python
 m3_2_whileIfTest_BFS.py
 
 1. 변수 선언
