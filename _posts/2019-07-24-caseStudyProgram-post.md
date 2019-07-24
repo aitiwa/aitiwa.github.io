@@ -3,7 +3,7 @@ layout: post
 title: caseStudyProgram - BFS-너비우선탐색
 subtitle: m3_2_whileIfTest_BFS
 image: /img/hello_world.jpeg
-tags: [python, program]
+tags: [python, program,caseStudyProgram]
 ---
 
 #실행결과
