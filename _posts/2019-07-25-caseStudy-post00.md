@@ -3,7 +3,7 @@ layout: post
 title: DataType Dictionary 정의 - key/value, {}을 사용하는 자료형
 subtitle: study datatype_Dictionary_01.py
 image: /img/hello_world.jpeg
-tags: [python, program, Section, caseStudy]
+tags: [python, program, caseStudy]
 ---
 
 #실행결과
