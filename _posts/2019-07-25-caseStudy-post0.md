@@ -3,11 +3,13 @@ layout: post
 title: caseStudy - 반복문-문자열 읽어 오기-문자열을 "HelloKOREA" 이용한 사례
 subtitle: m3_2_nestedLoopTest.py
 image: /img/hello_world.jpeg
-tags: [python, program,Section,caseStudy]
+tags: [python, program,caseStudy]
 ---
 
 #실행결과
 
+caseStudy - DataType Dictionary 정의 - key/value, {}을 사용하는 자료형
+study datatype_Dictionary_01.py
 
 1.str1,result 변수 선언과 초기화
 
