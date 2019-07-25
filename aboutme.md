@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: This blog is to remember what I studied.
 ---
 
 My name is misowa. I have the following qualities:
