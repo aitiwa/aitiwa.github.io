@@ -1,9 +1,9 @@
 ---
 layout: post
 title: caseStudy - 반복문-문자열 읽어 오기-문자열을 "HelloKOREA" 이용한 사례
-subtitle: m3_2_nestedLoopTest.py
+subtitle: m3_2_forloopTest_003_003.py
 image: /img/hello_world.jpeg
-tags: [python, program,Section034,caseStudyProgram]
+tags: [python, program,Section,caseStudyProgram]
 ---
 
 #실행결과
