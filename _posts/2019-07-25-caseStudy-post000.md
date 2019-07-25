@@ -12,7 +12,7 @@ tags: [python, program, caseStudy]
 caseStudy - 반복문-문자열 읽어 오기-문자열을 "HelloKOREA" 이용한 사례
 m3_1_forloopTest.py
 
-1.문자열 변수선언:
+put "1.문자열 변수선언"
    str1 = 'HelloKOREA'
 
 2.문자열 변수를 리스트 변수로 선언:
