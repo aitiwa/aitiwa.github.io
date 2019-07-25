@@ -27,7 +27,9 @@ m3_1_forloopTest.py
 3.1 딕셔너리 index 값 출력(위치확인)
 
    print(dic1)
+
    결과->
+
    {0: 'H', 1: 'e', 2: 'l', 3: 'l', 4: 'o', 5: 'K', 6: 'O', 7: 'R', 8: 'E', 9: 'A'}
 
 4.딕셔너리를 이용해 문자열 Key로 반복 숫자 계산
@@ -39,9 +41,13 @@ m3_1_forloopTest.py
 4.2 딕셔너리에서 문자열 반복횟수 계산하는 반복문 정의
 
    for i in list1: //리스트를 순차로 반복해서 실행
+
        if i not in dic1_count: //카운트에 문자열 Key값이 없으면
+
              dic1_count[i] = 1 //카운트 문자열 Key의 Value에 1을 지정하고
+
        else: //카운트에 문자열 Key값이 존재하면
+
              dic1_count[i] += 1 //카운트 문자열 Key의 Value에 1을 더한다.
 
 4.3 결과값->
@@ -51,6 +57,7 @@ m3_1_forloopTest.py
    print(dic1_count)
 
    결과->
+
    {'H': 1, 'e': 1, 'l': 2, 'o': 1, 'K': 1, 'O': 1, 'R': 1, 'E': 1, 'A': 1}
 
 5.딕셔너리 정렬과 출력
@@ -59,76 +66,102 @@ m3_1_forloopTest.py
 
    sortedlist11 = sorted(dic1_count.items())
    print(sortedlist11)
-   결과-> [('A', 1), ('E', 1), ('H', 1), ('K', 1), ('O', 1), ('R', 1), ('e', 1), ('l', 2), ('o', 1)]
-   * items() 함수를 호출하면, key-value 쌍이 tuple로 구성된 리스트가 리턴된다.
+
+   결과->
+
+   [('A', 1), ('E', 1), ('H', 1), ('K', 1), ('O', 1), ('R', 1), ('e', 1), ('l', 2), ('o', 1)]
+
+   # items() 함수를 호출하면, key-value 쌍이 tuple로 구성된 리스트가 리턴된다.
 
 5.2 딕셔너리 Key에 의한  정렬과 Key 값 출력
 
    sortedlist12 = sorted(dic1_count.keys())
    print(sortedlist12)
+
+
    결과->
+
    ['A', 'E', 'H', 'K', 'O', 'R', 'e', 'l', 'o']
 
 5.3 딕셔너리 Key에 의한 정렬과 Key, Value 값 출력: 5.1, 5.2 참조
 
    sortedlist19 = sorted(dic1_count.items(),key=operator.itemgetter(0))
    print(sortedlist19)
+
    결과->
+
    [('A', 1), ('E', 1), ('H', 1), ('K', 1), ('O', 1), ('R', 1), ('e', 1), ('l', 2), ('o', 1)]
 
 5.4 딕셔너리 Key에 의한 역정렬과 Key, Value 값 출력: 5.3 참조
 
    sortedlist15 = sorted(dic1_count.items(),key=operator.itemgetter(0),reverse=True)
    print(sortedlist15)
+
    결과->
+
    [('o', 1), ('l', 2), ('e', 1), ('R', 1), ('O', 1), ('K', 1), ('H', 1), ('E', 1), ('A', 1)]
 
 5.5 딕셔너리 Value에 의한  정렬과 Value 값 출력
 
    sortedlist13 = sorted(dic1_count.values())
    print(sortedlist13)
+
    결과->
+
    [1, 1, 1, 1, 1, 1, 1, 1, 2]
 
 5.6 딕셔너리 Value에 의한 정렬, 동일값 딕셔너리 Key 비정렬 및 Key, Value 값 출력: 5.5 참조
 
    sortedlist16 = sorted(dic1_count.items(),key=operator.itemgetter(1))
    print(sortedlist16)
+
    결과->
+
    [('H', 1), ('e', 1), ('o', 1), ('K', 1), ('O', 1), ('R', 1), ('E', 1), ('A', 1), ('l', 2)]
 
 5.7 딕셔너리 Value에 의한 정렬, 동일값 Key에 의한 정렬 및 Key, Value 값 출력
 
    sortedlist20 = sorted(dic1_count.items(),key=operator.itemgetter(1,0))
+
    결과->
+
    [('A', 1), ('E', 1), ('H', 1), ('K', 1), ('O', 1), ('R', 1), ('e', 1), ('o', 1), ('l', 2)]
 
 5.8 딕셔너리 Value에 의한 역정렬, 동일값 딕셔너리 Key 비정렬 및 Key, Value 값 출력: 5.6 참조
 
    sortedlist14 = sorted(dic1_count.items(),key=operator.itemgetter(1),reverse=True)
    print(sortedlist14)
+
    결과->
+
    [('l', 2), ('H', 1), ('e', 1), ('o', 1), ('K', 1), ('O', 1), ('R', 1), ('E', 1), ('A', 1)]
 
 5.9 딕셔너리 Value에 의한 역정렬과 동일값 딕셔너리 Key역정렬 및 Key, Value 값 출력: 5.7 참조
 
    sortedlist18 = sorted(dic1_count.items(),key=operator.itemgetter(1,0),reverse=True)
    print(sortedlist18)
+
    결과->
+
    [('l', 2), ('o', 1), ('e', 1), ('R', 1), ('O', 1), ('K', 1), ('H', 1), ('E', 1), ('A', 1)]
 
 5.10 변수의 데이터유형
 
    type(sortedlist18)
+
    결과->
+
    <class 'list'>
 
 5.11 정렬한 리스트 변수의 값을 문자열로 출력1
 
    for i in sortedlist18: //문자열을 순차 반복으로 실행
+
        print('{}{}'.format(i[0],i[1]),end='') //문자열 양식으로 출력
 
+
    결과->
+
    l2o1e1R1O1K1H1E1A1
 
 5.12 정렬한 리스트 변수의 값을 문자열로 출력2
@@ -137,9 +170,12 @@ m3_1_forloopTest.py
 
    strList19 = ""
    for i in sortedlist18: //문자열을 순차 반복으로 실행
+
        strList19 += i[0] + str(i[1]) //문자열 합치기
 
+
    결과->
+   
    print(strList19)
 
    l2o1e1R1O1K1H1E1A1
@@ -149,7 +185,7 @@ m3_1_forloopTest.py
 6.프로그램 종료
 
    print("Program End")
-   
+
    Program End
 
 #Program Source
