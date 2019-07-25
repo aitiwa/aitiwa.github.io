@@ -3,7 +3,7 @@ layout: post
 title: caseStudy - 학점 계산 - 중첩 조건문 1단계
 subtitle: ifElifElseMultiTest_001_01.py
 image: /img/hello_world.jpeg
-tags: [python, program,caseStudyProgram]
+tags: [python, program,caseStudy]
 ---
 
 #실행결과
