@@ -41,7 +41,7 @@ m3_1_forloopTest.py
 4.2 딕셔너리에서 문자열 반복횟수 계산하는 반복문 정의
 
 
-   for i in list1: //리스트를 순차로 반복해서 실행
+   for i in list1: //리스트를 순차로 반복해서 실행\n
        if i not in dic1_count: //카운트에 문자열 Key값이 없으면
 
              dic1_count[i] = 1 //카운트 문자열 Key의 Value에 1을 지정하고
