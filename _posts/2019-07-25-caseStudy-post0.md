@@ -9,11 +9,13 @@ tags: [python, program,Section034,caseStudyProgram]
 #실행결과
 
 
-1.str1,result 변수 선언과 초기화\n  
+1.str1,result 변수 선언과 초기화
+  
   str1 = "HelloKOREA"
   result = ""
 
-2.문자열 함수와 반복 실행하는 반복문\n
+2.문자열 함수와 반복 실행하는 반복문
+
   size = len(str1)  
   print("   문자열 길이: ",size)  
   print(str1)  
@@ -26,7 +28,8 @@ tags: [python, program,Section034,caseStudyProgram]
   for i in list1:  
       print(i, end = "")  
 
-3.결과값->\n
+3.결과값->
+
   size = len(str1)
   print("   문자열 길이: ",size)  
   문자열 길이:  10
@@ -37,7 +40,8 @@ tags: [python, program,Section034,caseStudyProgram]
   print("  ", list1)
   ['H', 'e', 'l', 'l', 'o', 'K', 'O', 'R', 'E', 'A']
 
-4.프로그램 종료\n
+4.프로그램 종료
+
   print("Program End")
   Program End
 
