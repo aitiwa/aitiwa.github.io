@@ -14,7 +14,7 @@ description: A virtual proof that I'm awesome
 url: "https://aitiwa.github.io/"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: "/"
 
 # --- Navigation bar options --- #
 
