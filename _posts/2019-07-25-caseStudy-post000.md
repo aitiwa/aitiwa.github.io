@@ -42,7 +42,6 @@ m3_1_forloopTest.py
 
 
    for i in list1: //리스트를 순차로 반복해서 실행
-
        if i not in dic1_count: //카운트에 문자열 Key값이 없으면
 
              dic1_count[i] = 1 //카운트 문자열 Key의 Value에 1을 지정하고
