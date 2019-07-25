@@ -3,7 +3,7 @@ layout: post
 title: caseStudy - Section034 반복문을 이용한 화폐의 매수 계산
 subtitle: m3_2_nestedLoopTest.py
 image: /img/hello_world.jpeg
-tags: [python, program,Section,caseStudy]
+tags: [python, program, Section, caseStudy]
 ---
 
 #실행결과
