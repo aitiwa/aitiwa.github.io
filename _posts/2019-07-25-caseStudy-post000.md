@@ -181,8 +181,6 @@ m3_1_forloopTest.py
 
    l2o1e1R1O1K1H1E1A1
 
-   l2
-
 6.프로그램 종료
 
    print("Program End")
