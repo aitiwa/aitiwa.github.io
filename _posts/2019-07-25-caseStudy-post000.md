@@ -2,7 +2,7 @@
 layout: post
 title: 반복문-문자열 읽어 오기-문자열을 "HelloKOREA" 이용한 사례
 subtitle: study datatype_Dictionary_01.py
-image: /img/hello_world.jpeg
+#image: /img/hello_world.jpeg
 tags: [python, program, caseStudy]
 ---
 
@@ -42,7 +42,7 @@ m3_1_forloopTest.py
 
 
    for i in list1: //리스트를 순차로 반복해서 실행
-   
+
        if i not in dic1_count: //카운트에 문자열 Key값이 없으면
 
              dic1_count[i] = 1 //카운트 문자열 Key의 Value에 1을 지정하고

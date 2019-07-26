@@ -2,7 +2,7 @@
 layout: post
 title: caseStudy - 학점 계산 - 중첩 조건문 2단계 - 학점 입니다 중복 제거
 subtitle: m3_1_ifelifelsemultiTest_001_02.py
-image: /img/hello_world.jpeg
+#image: /img/hello_world.jpeg
 tags: [python, program,caseStudy]
 ---
 
