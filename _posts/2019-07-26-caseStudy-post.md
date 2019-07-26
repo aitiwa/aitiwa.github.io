@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dictionary를 통한 반복문으로 문자열 다루기 - 문자열을 "HelloKOREA" 이용한 사례
+title: Dictionary를 통한 반복문으로 문자열 다루기 - "HelloKOREA" 사례
 subtitle: m3_1_forloopTest.py
 #image: /img/hello_world.jpeg
 tags: [python, program, caseStudy, Dictionary]
@@ -8,8 +8,7 @@ tags: [python, program, caseStudy, Dictionary]
 
 #실행결과
 
-caseStudy - Dictionary를 통한 반복문으로 문자열 다루기 -
-            문자열을 "HelloKOREA" 이용한 사례
+caseStudy - Dictionary를 통한 반복문으로 문자열 다루기 - "HelloKOREA" 사례
 m3_1_forloopTest.py
 
 1.문자열 변수선언
