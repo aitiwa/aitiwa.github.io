@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 반복문-문자열 읽어 오기-문자열을 "HelloKOREA" 이용한 사례
-subtitle: study datatype_Dictionary_01.py
+title: Dictionary를 통한 반복문으로 문자열 다루기 - 문자열을 "HelloKOREA" 이용한 사례
+subtitle: m3_1_forloopTest.py
 #image: /img/hello_world.jpeg
 tags: [python, program, caseStudy, Dictionary]
 ---
