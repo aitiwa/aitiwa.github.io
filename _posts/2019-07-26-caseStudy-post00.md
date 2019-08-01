@@ -4,7 +4,7 @@ published: true
 permalink: m3_1_forloopIfElseTest.html
 summary: "This is forloopIfElseTest example for post.(m3_1_forloopIfElseTest)"
 tags: [posts, news, getting_started, python, caseStudy]
-sidebar: news_sidebar
+sidebar: posts_sidebar
 keywords: python, program, caseStudy, Dictionary
 ---
 
