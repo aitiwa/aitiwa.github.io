@@ -12,6 +12,8 @@ keywords: python, program, caseStudy, Dictionary
 
 ## caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기
 
+요구사항: 배열 값이 6이상이면 5로 나눈 나머지 값으로 대체한다. 
+
 ### 1.inputData, iniArr, arrSize변수 선언과 초기화
 ```
   inputData = [                 
@@ -27,6 +29,9 @@ keywords: python, program, caseStudy, Dictionary
   iniArr = [[0 for row in range(arrSize)] for col in range(arrSize)]  
 ```
 ### 2.문자열 함수와 반복 실행하는 반복문
+
+요구사항: 배열 값이 6이상이면 5로 나눈 나머지 값으로 대체한다.
+
 ```
   for i in range(arrSize):             
       for j in range(arrSize):  
