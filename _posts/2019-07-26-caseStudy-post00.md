@@ -8,10 +8,10 @@ tags: [news, getting_started, python, program, caseStudy, Dictionary]
 
 ## Execution Result
 
-caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기
+## caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기
 
-1.inputData, iniArr, arrSize변수 선언과 초기화
-
+### 1.inputData, iniArr, arrSize변수 선언과 초기화
+```
   inputData = [                 
       [1, 2, 3, 5, 4, 3],  
       [2, 3, 5, 3, 2, 4],  
@@ -23,9 +23,9 @@ caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기
   iniArr = []  
   arrSize = len(inputData)  
   iniArr = [[0 for row in range(arrSize)] for col in range(arrSize)]  
-
-2.문자열 함수와 반복 실행하는 반복문
-
+```
+### 2.문자열 함수와 반복 실행하는 반복문
+```
   for i in range(arrSize):             
       for j in range(arrSize):  
           num = inputData[i][j]  
@@ -33,8 +33,8 @@ caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기
               iniArr[i][j] = num % 5  
           else:  
               iniArr[i][j] = num  
-
-3.결과값 출력문
+```
+### 3.결과값 출력문
 ```
   for i in range(arrSize):             
       for j in range(arrSize):  
@@ -46,7 +46,7 @@ caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기
           print(iniArr[i][j], end="	")  
       print("")  
 ```
-4.결과값->
+### 4.결과값->
 
 1	2	3	5	4	3
 2	3	5	3	2	4
@@ -55,12 +55,11 @@ caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기
 5	1	5	3	5	2
 1	5	3	5	4	1
 
-5.프로그램 종료
-
+### 5.프로그램 종료
+```
   print("Program End")
-
   Program End
-
+```
 ## Program Source
 
 ```
