@@ -49,14 +49,14 @@ keywords: python, program, caseStudy, Dictionary
       print("")  
 ```
 ### 4.결과값->
-
+```
 1	2	3	5	4	3
 2	3	5	3	2	4
 3	5	3	2	4	1
 4	3	4	5	1	3
 5	1	5	3	5	2
 1	5	3	5	4	1
-
+```
 ### 5.프로그램 종료
 ```
   print("Program End")
