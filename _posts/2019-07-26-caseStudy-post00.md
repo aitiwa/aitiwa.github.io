@@ -1,15 +1,14 @@
 ---
-layout: post
-title: 중첩 반복문 - 행열 다루기 - 대체하기
-subtitle: m3_1_forloopIfElseTest.py
-#image: /img/hello_world.jpeg
-tags: [python, program, caseStudy, Dictionary]
+title:  "중첩 반복문 - 행열 다루기 - 대체하기"
+published: true
+permalink: m3_1_forloopIfElseTest.html
+summary: "This is forloopIfElseTest example for post.(m3_1_forloopIfElseTest)"
+tags: [news, getting_started, python, program, caseStudy, Dictionary]
 ---
 
 #실행결과
 
 caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기
-m3_1_forloopIfElseTest.py
 
 1.inputData, iniArr, arrSize변수 선언과 초기화
 
