@@ -6,7 +6,7 @@ summary: "This is forloopIfElseTest example for post.(m3_1_forloopIfElseTest)"
 tags: [news, getting_started, python, program, caseStudy, Dictionary]
 ---
 
-#실행결과
+## Execution Result
 
 caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기
 
@@ -61,7 +61,7 @@ caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기
 
   Program End
 
-#Program Source
+## Program Source
 
 print('caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기')
 print('m3_1_forloopIfElseTest.py\n')
