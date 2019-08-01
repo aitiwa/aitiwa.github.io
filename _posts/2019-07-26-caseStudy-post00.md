@@ -3,7 +3,7 @@ title:  "중첩 반복문 - 행열 다루기 - 대체하기"
 published: true
 permalink: m3_1_forloopIfElseTest.html
 summary: "This is forloopIfElseTest example for post.(m3_1_forloopIfElseTest)"
-tags: [news, getting_started, python, caseStudy]
+tags: [posts, news, getting_started, python, caseStudy]
 sidebar: news_sidebar
 keywords: python, program, caseStudy, Dictionary
 ---
@@ -12,7 +12,7 @@ keywords: python, program, caseStudy, Dictionary
 
 ## caseStudy - 중첩 반복문 - 행열 다루기 - 대체하기
 
-요구사항: 배열 값이 6이상이면 5로 나눈 나머지 값으로 대체한다. 
+요구사항: 배열 값이 6이상이면 5로 나눈 나머지 값으로 대체한다.
 
 ### 1.inputData, iniArr, arrSize변수 선언과 초기화
 ```
