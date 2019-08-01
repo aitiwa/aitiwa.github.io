@@ -48,7 +48,7 @@ keywords: python, program, caseStudy, Dictionary
           print(iniArr[i][j], end="	")  
       print("")  
 ```
-### 4.결과값->
+### 4.결과값
 ```
 1	2	3	5	4	3
 2	3	5	3	2	4
@@ -112,7 +112,7 @@ print('              iniArr[i][j] = num  ')
 print('          print(iniArr[i][j], end="\t")  ')
 print('      print("")  ')
 print()
-print("4.결과값->\n")
+print("4.결과값\n")
 for i in range(arrSize):
     for j in range(arrSize):
         num = inputData[i][j]
