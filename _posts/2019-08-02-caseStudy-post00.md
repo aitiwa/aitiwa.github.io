@@ -12,11 +12,10 @@ keywords: python, program, caseStudy, Dictionary
 
 ## 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 사례
 
-### 1. str1, list1, result,dic1_count 변수 선언과 초기화
+### 1. str1, list1, dic1_count 변수 선언과 초기화
 ```
    str1 = "HelloKOREAA"
-   list1 = list(str1)   
-   result1 = ""         
+   list1 = list(str1)          
    dic1_count = {}      
 ```
 ### 2. Dictionary와 반복 실행하는 반복문
@@ -49,14 +48,12 @@ keywords: python, program, caseStudy, Dictionary
 print('caseStudy - 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 사례')
 print('forloopTest')
 print()
-print("1. str1, list1, result,dic1_count 변수 선언과 초기화 ")
+print("1. str1, list1, dic1_count 변수 선언과 초기화 ")
 print('   str1 = "HelloKOREAA" ')
 print('   list1 = list(str1)   ')
-print('   result1 = ""         ')
 print("   dic1_count = {}      ")
 str1 = "HelloKOREAA"
 list1 = list(str1)
-result1 = ""
 dic1_count = {}
 print()
 print("2. Dictionary와 반복 실행하는 반복문 ")
