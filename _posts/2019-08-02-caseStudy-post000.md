@@ -1,5 +1,5 @@
 ---
-title:  '반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 최대값 사례4'
+title:  '반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 조건값 사례4'
 published: true
 permalink: forloopIfElseTest_004.html
 summary: "This is forloopIfElseTest example for post.(forloopIfElseTest)"
@@ -13,7 +13,7 @@ keywords: python, program, caseStudy, Dictionary
 **주어진 문자열을 리스트로 바꾸고 Dictionary의 세트 정보를 이용해
 반복되는 회수를 Count하고 최대값 세트 정보를 출력한다.**
 
-## 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 최대값 사례4
+## 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 조건값 사례4
 
 ### 1.1 str1, size, list1, dic1_count 변수 선언과 초기화
 ```
