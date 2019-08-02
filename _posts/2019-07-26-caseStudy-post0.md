@@ -9,6 +9,8 @@ keywords: python, program, caseStudy, Dictionary
 ---
 ## Execution Result
 
+**Hong Kil Dong, Hong Kil dong 등 동일 이름이 존재할 경우에 동일한 형태로 바꾸는 과정이다.**
+
 ## 문자열 다루기 - 이름 문자열을 이용한 사례
 
 ### 1. name, splitName 변수 선언과 초기화
