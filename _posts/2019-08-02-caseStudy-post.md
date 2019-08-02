@@ -10,7 +10,7 @@ keywords: python, program, caseStudy, Dictionary
 
 ## Execution Result
 
-## 문자열 다루기 - "HelloKOREA" 길이 계산 사례
+## 문자열 다루기 - "HelloKOREA" 길이 계산 사례1
 
 ### 1.str1,result 변수 선언과 초기화:  
 ```
