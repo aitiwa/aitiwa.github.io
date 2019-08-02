@@ -15,10 +15,9 @@ keywords: python, program, caseStudy, Dictionary
 
 ## 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 조건값 사례4
 
-### 1.1 str1, size, list1, dic1_count 변수 선언과 초기화
+### 1.1 str1, list1, dic1_count 변수 선언과 초기화
 ```
     str1 = "HelloKOREAA"
-    size = len(str1)
     list1 = list(str1)
     dic1_count = {}
 ```
@@ -72,13 +71,11 @@ keywords: python, program, caseStudy, Dictionary
 print('caseStudy - 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 활용 사례4')
 print('forloopIfElseTest_004')
 print()
-print("1.1 str1, size, list1, dic1_count 변수 선언과 초기화  ")
+print("1.1 str1, list1, dic1_count 변수 선언과 초기화  ")
 print('    str1 = "HelloKOREAA" ')
-print('    size = len(str1) ')
 print('    list1 = list(str1) ')
 print("    dic1_count = {}")
 str1 = "HelloKOREAA"
-size = len(str1)
 list1 = list(str1)
 dic1_count = {}
 print()
