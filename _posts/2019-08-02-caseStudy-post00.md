@@ -10,8 +10,8 @@ keywords: python, program, caseStudy, Dictionary
 
 ## Execution Result
 
-주어진 문자열을 리스트로 바꾸고 Dictionary의 세트 정보를 이용해
-반복되는 회수를 Count하고 해당 세트 정보를 출력한다.
+**주어진 문자열을 리스트로 바꾸고 Dictionary의 세트 정보를 이용해
+반복되는 회수를 Count하고 해당 세트 정보를 출력한다.**
 
 ## 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 사례
 
@@ -21,7 +21,7 @@ keywords: python, program, caseStudy, Dictionary
    list1 = list(str1)          
    dic1_count = {}      
 ```
-### 2. Dictionary와 반복 실행하는 반복문
+### 2. Dictionary와 반복 반복 회수를 계산하는 반복문
 ```
    for i in list1:                       
         if i not in dic1_count.keys():  
@@ -59,7 +59,7 @@ str1 = "HelloKOREAA"
 list1 = list(str1)
 dic1_count = {}
 print()
-print("2. Dictionary와 반복 실행하는 반복문 ")
+print("2. Dictionary와 반복 반복 회수를 계산하는 반복문 ")
 print('   for i in list1:                       ')
 print('        if i not in dic1_count.keys():  ')
 print('           dic1_count[i] = 1  ')
