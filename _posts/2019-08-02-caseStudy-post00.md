@@ -32,10 +32,16 @@ keywords: python, program, caseStudy, Dictionary
 ### 3. 결과값 출력문
 ```
    print("   dic1_count = ", dic1_count)
+   print('   print("   dic1_count.items() = ", dic1_count.items()) ')
+   print('   print("   dic1_count.keys() = ", dic1_count.keys()) ')
+   print('   print("   dic1_count.values() = ", dic1_count.values()) ')
 ```
 ### 4. 결과값
 ```
    dic1_count =  {'H': 1, 'e': 1, 'l': 2, 'o': 1, 'K': 1, 'O': 1, 'R': 1, 'E': 1, 'A': 2}
+   dic1_count.items() =  dict_items([('H', 1), ('e', 1), ('l', 2), ('o', 1), ('K', 1), ('O', 1), ('R', 1), ('E', 1), ('A', 2)])
+   dic1_count.keys() =  dict_keys(['H', 'e', 'l', 'o', 'K', 'O', 'R', 'E', 'A'])
+   dic1_count.values() =  dict_values([1, 1, 2, 1, 1, 1, 1, 1, 2])
 ```
 ### 5. 프로그램 종료문
 ```
@@ -73,9 +79,15 @@ for i in list1:
 print()
 print("3. 결과값 출력문")
 print('   print("   dic1_count = ", dic1_count) ')
+print('   print("   dic1_count.items() = ", dic1_count.items()) ')
+print('   print("   dic1_count.keys() = ", dic1_count.keys()) ')
+print('   print("   dic1_count.values() = ", dic1_count.values()) ')
 print()
 print("4. 결과값")
 print("   dic1_count = ", dic1_count)
+print("   dic1_count.items() = ", dic1_count.items())
+print("   dic1_count.keys() = ", dic1_count.keys())
+print("   dic1_count.values() = ", dic1_count.values())
 print()
 print('5. 프로그램 종료문')
 print('   print("Program End")')
