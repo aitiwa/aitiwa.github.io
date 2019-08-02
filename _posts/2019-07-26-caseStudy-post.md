@@ -1,5 +1,5 @@
 ---
-title:  "Dictionary를 통한 반복문으로 문자열 다루기 - "HelloKOREA" 사례"
+title:  'Dictionary를 통한 반복문으로 문자열 다루기 - "HelloKOREA" 사례'
 published: true
 permalink: m3_1_forloopTest.html
 summary: "This is forloopTest example for post.(m3_1_forloopTest)"
