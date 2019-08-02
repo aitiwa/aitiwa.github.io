@@ -11,6 +11,9 @@ entries:
     - title: Posts
       url: /posts.html
       output: web
+    - title: Bosks
+      url: /bosks.html
+      output: web
     - title: Theme instructions
       url: /mydoc_introduction.html
       output: web
