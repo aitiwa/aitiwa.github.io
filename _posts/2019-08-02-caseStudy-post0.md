@@ -10,7 +10,7 @@ keywords: python, program, caseStudy, Dictionary
 
 ## Execution Result
 
-## 문자열 다루기 - "HelloKOREA" 리스트로 전환 사례
+## 문자열 다루기 - "HelloKOREA" 리스트로 전환 사례2
 
 ## 1.str1 변수 선언과 초기화
 ```
