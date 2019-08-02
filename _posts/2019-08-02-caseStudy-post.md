@@ -1,7 +1,7 @@
 ---
-title:  '문자열 다루기 - "HelloKOREA" 길이 계산 사례'
+title:  '문자열 다루기 - "HelloKOREA" 길이 계산 사례1'
 published: true
-permalink: lenTest.html
+permalink: lenTest_001.html
 summary: "This is forloopIfElseTest example for post.(m3_1_forloopIfElseTest)"
 tags: [posts, news, getting_started, python, case_study]
 sidebar: posts_sidebar
