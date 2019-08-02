@@ -3,7 +3,7 @@ title:  "First book!"
 published: true
 permalink: firstbook.html
 summary: "This is some summary frontmatter for my sample first book."
-tags: [books, getting_started]
+tags: [books]
 sidebar: books_sidebar
 keywords: books
 ---
