@@ -11,9 +11,9 @@ entries:
     - title: Posts
       url: /posts.html
       output: web
-    - title: Books
-      url: /books.html
-      output: web
+#    - title: Books
+#      url: /books.html
+#      output: web
     - title: Theme instructions
       url: /mydoc_introduction.html
       output: web
