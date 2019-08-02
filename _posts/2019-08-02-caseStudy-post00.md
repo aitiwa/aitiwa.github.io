@@ -1,8 +1,8 @@
 ---
-title:  '반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 사례'
+title:  '반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 사례3'
 published: true
-permalink: forloopTest.html
-summary: "This is forloopTest example for post.(forloopTest)"
+permalink: forloopIfElseTest_003.html
+summary: "This is forloopIfElseTest example for post.(forloopIfElseTest)"
 tags: [posts, news, getting_started, python, case_study]
 sidebar: posts_sidebar
 keywords: python, program, caseStudy, Dictionary
@@ -54,8 +54,8 @@ keywords: python, program, caseStudy, Dictionary
 ## Program Source
 
 ```
-print('caseStudy - 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 사례')
-print('forloopTest')
+print('caseStudy - 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 사례3')
+print('forloopIfElseTest')
 print()
 print("1. str1, list1, dic1_count 변수 선언과 초기화 ")
 print('   str1 = "HelloKOREAA" ')
