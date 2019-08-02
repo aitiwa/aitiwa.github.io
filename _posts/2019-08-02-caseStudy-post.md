@@ -1,5 +1,5 @@
 ---
-title:  "문자열 다루기 - "HelloKOREA" 길이 계산 사례"
+title:  '문자열 다루기 - "HelloKOREA" 길이 계산 사례'
 published: true
 permalink: lenTest.html
 summary: "This is forloopIfElseTest example for post.(m3_1_forloopIfElseTest)"
