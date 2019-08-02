@@ -38,7 +38,7 @@ keywords: python, program, caseStudy, Dictionary
 ```
     dic1_count =  {'H': 1, 'e': 1, 'l': 2, 'o': 1, 'K': 1, 'O': 1, 'R': 1, 'E': 1, 'A': 2}
 ```
-### 1.2 str1, size,list1, dic1_count 변수 선언과 초기화  
+### 1.2 cnt, searchword 변수 선언과 초기화  
 ```
     cnt = 0         
     searchword = ""
@@ -100,7 +100,7 @@ print()
 print("4.1 결과값")
 print("    dic1_count = ", dic1_count)
 print()
-print("1.2 str1, size,list1, dic1_count 변수 선언과 초기화  ")
+print("1.2 cnt, searchword 변수 선언과 초기화  ")
 print('    cnt = 0         ')
 print('    searchword = "" ')
 cnt = 0
