@@ -11,7 +11,7 @@ keywords: python, program, caseStudy, Dictionary
 ## Execution Result
 
 **주어진 문자열을 리스트로 바꾸고 Dictionary의 세트 정보를 이용해
-반복되는 회수를 Count하고 최대값 세트 정보를 출력한다.**
+반복되는 회수를 Count하고 2개 이상인 세트 정보를 출력한다.**
 
 ## 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 조건값 사례4
 
