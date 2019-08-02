@@ -69,7 +69,7 @@ keywords: python, program, caseStudy, Dictionary
 ## Program Source
 
 ```
-print('caseStudy - 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 최대값 사례4')
+print('caseStudy - 반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 활용 사례4')
 print('forloopIfElseTest_004')
 print()
 print("1.1 str1, size, list1, dic1_count 변수 선언과 초기화  ")
