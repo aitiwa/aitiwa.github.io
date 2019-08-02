@@ -1,7 +1,7 @@
 ---
-title:  '문자열 다루기 - "HelloKOREA" 리스트로 전환 사례'
+title:  '문자열 다루기 - "HelloKOREA" 리스트로 전환 사례2'
 published: true
-permalink: listTest.html
+permalink: listTest_002.html
 summary: "This is listTest example for post.(listTest)"
 tags: [posts, news, getting_started, python, case_study]
 sidebar: posts_sidebar
