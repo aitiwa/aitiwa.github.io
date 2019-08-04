@@ -84,6 +84,10 @@ entries:
       url: /mydoc_posts.html
       output: web, pdf
 
+#    - title: Books
+#      url: /mydoc_books.html
+#      output: web, pdf
+
     - title: Lists
       url: /mydoc_lists.html
       output: web, pdf
