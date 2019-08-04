@@ -3,7 +3,7 @@ title:  '반복문-문자열 다루기 - "HelloKOREA" 반복회수 계산 사례
 published: true
 permalink: forloopIfElseTest_003.html
 summary: "This is forloopIfElseTest example for post.(forloopIfElseTest)"
-tags: [posts, news, getting_started, python, case_study]
+tags: [posts, news, python, case_study]
 sidebar: posts_sidebar
 keywords: python, program, caseStudy, Dictionary
 ---
@@ -21,7 +21,7 @@ keywords: python, program, caseStudy, Dictionary
    list1 = list(str1)          
    dic1_count = {}      
 ```
-### 2. Dictionary와 반복 반복 회수를 계산하는 반복문
+### 2. Dictionary변수와 반복문을 이용한 반복 회수를 계산하는 반복문
 ```
    for i in list1:                       
         if i not in dic1_count.keys():  
