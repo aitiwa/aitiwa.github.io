@@ -21,9 +21,7 @@ keywords: python, program, section
 ### 2. 반복 계산하는 반복문:
 ```
    for i in range(1, 101, 1) :
-       sum = sum + i
-   print(" 결과값->")
-   print(" sum = ", sum
+       sum = sum + i    # sum += i
 ```
 ### 3. 결과값 출력문
 ```
