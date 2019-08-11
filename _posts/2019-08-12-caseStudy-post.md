@@ -17,7 +17,7 @@ ifElifElseMultiTest_001_01.py
 
 ### 1. score 변수 선언과 초기화
 ```
-   score = 100   
+   score = 95   
 ```
 ### 2. 여러 조건에 따라 실행하는 조건문
 ```
@@ -53,7 +53,7 @@ print("caseStudy - 학점 계산 - 중첩 조건문 1단계")
 print("ifElifElseMultiTest_001_01.py")
 print()
 print("1. score 변수 선언과 초기화 ")
-print('   score = 100   ')
+print('   score = 95   ')
 score = 95
 print()
 print("2. 여러 조건에 따라 실행하는 조건문 ")
