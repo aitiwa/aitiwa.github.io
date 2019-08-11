@@ -13,7 +13,6 @@ keywords: python, program, caseStudy
 **단순 학점을 조건에 따라 계산하고 출력한다.**
 
 ## caseStudy - 학점 계산 - 중첩 조건문 1단계
-ifElifElseMultiTest_001_01.py
 
 ### 1. score 변수 선언과 초기화
 ```
@@ -50,13 +49,12 @@ ifElifElseMultiTest_001_01.py
 
 ```
 print("caseStudy - 학점 계산 - 중첩 조건문 1단계")
-print("ifElifElseMultiTest_001_01.py")
 print()
 print("1. score 변수 선언과 초기화 ")
 print('   score = 95   ')
 score = 95
 print()
-print("2. 여러 조건에 따라 실행하는 조건문 ")
+print("2. 여러 조건에 따라 실행하는 조건문 및 출력문 ")
 print('   if  score == 100 :               ')
 print('       print("   A학점 입니다.")    ')
 print('   elif score >=  90:               ')
@@ -70,7 +68,7 @@ print('       print("   D학점 입니다." )   ')
 print('   else :                           ')
 print('       print("   F학점 입니다." )   ')
 print()
-print("3. 결과값->")
+print("3. 결과값 출력")
 if  score == 100 :
     print("   A학점 입니다.")
 elif score >=  90:
