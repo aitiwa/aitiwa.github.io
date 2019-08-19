@@ -41,7 +41,7 @@ keywords: python, program, caseStudy
 ```
    print("Program End")
 ```
-###5. 프로그램 종료
+### 5. 프로그램 종료
 ```
    Program End
 ```   
