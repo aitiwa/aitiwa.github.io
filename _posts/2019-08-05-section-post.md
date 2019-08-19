@@ -10,7 +10,8 @@ keywords: python, program, section
 
 ## Execution Result
 
-**주어진 i, sum 변수를 이용해 1에서 100까지 합계를 구한다.**
+**주어진 i, sum 변수를 이용해 1에서 100까지 합계를 구한다.
+  {1, 2, 3, 4, 5,..99, 100}**
 
 ## Section001 알고리즘-1에서 100까지 합계
 
