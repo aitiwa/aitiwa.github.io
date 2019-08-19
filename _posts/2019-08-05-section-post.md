@@ -43,8 +43,7 @@ keywords: python, program, section
 ## Program Source
 
 ```
-print("Section001 알고리즘-1에서 100까지 합계\n")
-print("forloopTest_003")
+print("Section001 알고리즘-1에서 100까지 합계")
 print()
 print("1. i, sum 변수 선언과 초기화: ")
 print("   i, sum = 0, 0")
@@ -53,8 +52,6 @@ print()
 print("2. 반복 계산하는 반복문: ")
 print("   for i in range(1, 101, 1) :")
 print("       sum = sum + i")
-print('   print(" 결과값->")')
-print('   print(" sum = ", sum')
 print()
 for i in range(1, 101, 1) :
     sum = sum + i
