@@ -66,7 +66,7 @@ keywords: python, program, caseStudy
 ## Program Source
 
 ```
-pprint("caseStudy - 학점 계산 - 중첩 조건문 3단계 - 0+학점 부여")
+print("caseStudy - 학점 계산 - 중첩 조건문 3단계 - 0+학점 부여")
 print()
 print("1. score 변수 선언과 초기화 ")
 print('   score = 95   ')
