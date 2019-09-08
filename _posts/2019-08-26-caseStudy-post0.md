@@ -38,31 +38,39 @@ keywords: python, program, caseStudy, Stage
 ```
    people['american'] = 63
 ```
-### 7. Dictionary 변수 출력값
+### 7. Dictionary 변수 출력문
 ```
    print('  ', people['american'])
+```
+### 8. Dictionary 변수 출력값
+```
    63
-
-   print('  ', people['japanese'])
-   15
-```
-### 8. Dictionary에 새로운 값(특정 Key, value 값) 추가는 어떻게 할까요?
-```
-   people['german'] = 29
 ```
 ### 9. Dictionary 변수 출력문
 ```
-   print('  ', people)
+   print('  ', people['japanese'])
 ```
 ### 10. Dictionary 변수 출력값
 ```
+   15
+```
+### 11. Dictionary에 새로운 값(특정 Key, value 값) 추가는 어떻게 할까요?
+```
+   people['german'] = 29
+```
+### 12. Dictionary 변수 출력문
+```
+   print('  ', people)
+```
+### 13. Dictionary 변수 출력값
+```
    {'korean': 380, 'american': 63, 'japanese': 15, 'german': 29}
 ```   
-### 11. 프로그램 종료문
+### 14. 프로그램 종료문
 ```
    print("Program End")
 ```
-### 12. 프로그램 종료
+### 15. 프로그램 종료
 ```
    Program End
 ```   
@@ -91,20 +99,25 @@ print('6. Dictionary 변수의 특정 Key의 value 값 변경은 어떻게 할�
 print("   people['american'] = 63")
 people['american'] = 63
 print()
-print('7. Dictionary 변수 출력값')
+print('7. Dictionary 변수 출력문')
 print("   print('  ', people['american'])")
+print()
+print('8. Dictionary 변수 출력값')
 print('  ', people['american'])
 print()
+print('9. Dictionary 변수 출력문')
 print("   print('  ', people['japanese'])")
+print()
+print('10. Dictionary 변수 출력값')
 print('  ', people['japanese'])
 print()
-print('8. Dictionary에 새로운 값(특정 Key, value 값) 추가는 어떻게 할까요?')
+print('11. Dictionary에 새로운 값(특정 Key, value 값) 추가는 어떻게 할까요?')
 print("   people['german'] = 29")
 people['german'] = 29
 print()
-print('9. Dictionary 변수 출력문')
+print('12. Dictionary 변수 출력문')
 print("   print('  ', people)")
 print()
-print('10. Dictionary 변수 출력값')
+print('13. Dictionary 변수 출력값')
 print('  ', people)
 ```
