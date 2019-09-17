@@ -1,5 +1,5 @@
 ---
-title:  '알고리즘-1에서 100까지 합계'
+title:  'Section001 - 알고리즘-1에서 100까지 합계'
 published: true
 permalink: forloopTest_003_Section001.html
 summary: "This is forloopTest example for post.(forloopTest)"
