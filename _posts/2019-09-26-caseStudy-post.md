@@ -1,5 +1,5 @@
 ---
-title:  '문자열 다루기 - "HelloKOREA" 리스트로 전환 사례2'
+title:  'caseStudy: 알고리즘 활용-10부터 0까지 커피 재고를 출력'
 published: true
 permalink: M3_ex03_evenPrint_004.html
 summary: "This is whileloopIfTest example for post.(whileloopIfTest)"
