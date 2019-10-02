@@ -1,3 +1,4 @@
+---
 title:  'SECTION002_20 알고리즘-수열2: 1에서 100까지 부호 교차의 합계-방안2'
 published: true
 permalink: SECTION002_20_forloopTest_003.html
