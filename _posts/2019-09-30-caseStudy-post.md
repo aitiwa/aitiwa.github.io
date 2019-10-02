@@ -1,5 +1,5 @@
 ---
-title:  'caseStudy for_000: 반복문 기본형'
+title:  'caseStudy_for_000: 반복문 기본형'
 published: true
 permalink: caseStudy_for_000.html
 summary: "This is whileloopIfTest example for post.(whileloopIfTest)"
@@ -10,7 +10,7 @@ keywords: python, program, caseStudy, Dictionary
 
 ## Execution Result
 
-## caseStudy for_000: 반복문 기본형
+## caseStudy_for_000: 반복문 기본형
 
 ## 1. i 변수 선언과 초기화
 ```
